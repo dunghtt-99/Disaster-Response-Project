@@ -19,9 +19,10 @@ Python, Scikit Learn, Pandas, NumPy, SQLalchemy, NLTK, Pickle
 3.1. train_classifier.py
 4.README.md
 
-# Repository
+## Repository
+https://github.com/dunghtt-99/Disaster-Response-Project/
 
-# Instruction
+## Instruction
 Step 1: Clone the repo
 Step 2: Run ETL pipeline that cleans data and stores in database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
@@ -31,5 +32,5 @@ Step 4: Run web app
 	`python app/trun.py`
 Step 5: Access web app on localhost:3000
 
-# Acknowledgement
+## Acknowledgement
 https://www.udacity.com/
