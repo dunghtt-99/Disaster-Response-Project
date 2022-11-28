@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-This project is about to build a web app for user to view the categories of messages in disasters.
+This project is about to analyze messages in disasters and divide them into categories that can be viewes in a web app. This will be a helpful application for community to have a wide vision about disaster situations. It will also help people or organizations have better preparations for disasters in the future.
 
 ## Development Language and Libraries
 Python, Scikit Learn, Pandas, NumPy, SQLalchemy, NLTK, Pickle
